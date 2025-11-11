@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "pdf-vectordb": {
+      "command": "python",
+      "args": [
+        "-m",
+        "src.mcp_server"
+      ],
+      "cwd": "/full/path/to/pdf-vectordb-mcp"
+    }
+  }
+}

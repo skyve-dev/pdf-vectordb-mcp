@@ -1,0 +1,19 @@
+# MCP Server (FastMCP for simpler API)
+fastmcp>=0.2.0
+
+# Vector Database
+chromadb>=0.4.0
+
+# Embeddings - Local (sentence-transformers)
+sentence-transformers>=2.2.0
+torch>=2.0.0
+
+# PDF Processing
+pypdf>=3.17.0
+pdfplumber>=0.10.0
+
+# File watching
+watchdog>=3.0.0
+
+# Configuration
+python-dotenv>=1.0.0
